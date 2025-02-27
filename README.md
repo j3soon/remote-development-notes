@@ -1,8 +1,11 @@
 # Remote Development Notes
 
-Some notes on remote development.
+Table of Contents:
 
-This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/remote-development/).
+- [DHCP Lease Renewal](./dhcp-lease-renewal.md)
+- [OpenSSH Server](./openssh-server.md)
+
+> This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/remote-development/). The page source can be found at [j3soon/remote-development-notes](https://github.com/j3soon/remote-development-notes).
 
 ## Contributors
 
